@@ -43,3 +43,10 @@ print(g)
 a='a:b:c:d:'
 s= a.split(':')
 print(s)
+
+a=(1,3,4)
+a= a+(5,)
+print(a)
+
+a=dict()
+print(a)
