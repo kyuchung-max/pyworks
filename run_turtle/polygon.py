@@ -26,3 +26,5 @@ for x in range(4):
 
 polygon2(4,80)
 polygon2(5,180)
+
+t.mainloop()

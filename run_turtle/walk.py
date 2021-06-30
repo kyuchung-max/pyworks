@@ -10,3 +10,5 @@ for x in range(300):
     angle = r.randint(1,360)
     t.setheading(angle)
     t.forward(10)
+
+t.mainloop()

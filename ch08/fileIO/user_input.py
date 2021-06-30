@@ -1,0 +1,5 @@
+f=open('input.txt', 'a')
+text=input('내용 입력 : ')
+f.write(text)
+f.write('\n')
+f.close()
